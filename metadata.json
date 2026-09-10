@@ -1,0 +1,6 @@
+{
+  "name": "DJ Mixer Mobile",
+  "description": "App mobile mixer DJ a due deck per smartphone con 5 desktop dedicati (Mixer, EQ, FX XY, Loops, Pads Controller), effetti potenziati e motore audio zero-latency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

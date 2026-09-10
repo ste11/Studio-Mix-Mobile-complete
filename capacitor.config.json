@@ -1,0 +1,9 @@
+{
+  "appId": "com.djmixer.mobile",
+  "appName": "DJ Mixer Mobile",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

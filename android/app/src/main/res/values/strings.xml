@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DJ Mixer Mobile</string>
+    <string name="title_activity_main">DJ Mixer Mobile</string>
+    <string name="package_name">com.djmixer.mobile</string>
+    <string name="custom_url_scheme">com.djmixer.mobile</string>
+</resources>
